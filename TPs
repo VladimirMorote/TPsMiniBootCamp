@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1 align="center">Alta Joda</h1>
+   <
+   <h3>Hobbies</h3>
+
+   <ol type="A">
+     <li>Correr</li> 
+     <li>Tocar instrumentos</li>
+        <ul>
+          <li>Guitarra</li>
+          <li>Trompeta</li>
+          <li>Saxofon</li>
+        </ul> 
+     <li>Caminar</li>
+     <li>Rascar el higo</li>
+   </ol>
+
+   <img src="Guitarra.jpg" width="150" lang="50">
+   <img src="Saxofon.jpg" width="150" lang="50">
+   <img src="Trompeta.jpg" width="150" lang="50">
+  
+
+   <p>Aqui un pequeño parrafo, ponele</p>
+
+    <script src="script.js"></script>
+  </body>
+</html>
